@@ -29,7 +29,7 @@ I made this because all my other units are on GitHub and I just wanted one for t
 
 ##### Week 13: 01/02/2021
 
-WHAT is HCI: History and topics
+WHAT is HCI: history and topics
 
 | Lecture | Video | Slides |
 | ------ | ---- | --- |
@@ -52,6 +52,20 @@ WHY: root in psychology and user centre design
 | 4. UCD | [Stream link [20 mins]](https://web.microsoftstream.com/video/84165df4-6c45-4732-b796-8a1f44739ef2) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK14/Week14-Chunk%204-IntAndSoc-UCD-20min.pptx?d=w7cafac71fe9c4e2a91723096447f51d5&csf=1&web=1&e=fGESQt) |
 | 5. User in centre | [Stream link [25 mins]](https://web.microsoftstream.com/video/fc51f160-b10b-4239-81cc-f3e355aef625) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK14/Week14-Chunk%205-IntAndSoc-UserInCenter-25min.pptx?d=wb3bbd13d218b47f2865a3bfc1cd00e02&csf=1&web=1&e=utdtCD) |
 | 6. Iterations | [Stream link [10 mins]](https://web.microsoftstream.com/video/ea2e909f-ab6d-4fad-8851-47235a148794) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK14/Week14-Chunk%206-IntAndSoc-Iterations-10min.pptx?d=w8460c381b51841428cb1f8b3fa8f2050&csf=1&web=1&e=A6BtKV) |
+
+#### Week 15: 15/02/2021
+
+HOW: data gathering and design
+
+| Lecture | Video | Slides |
+| ------ | ---- | --- |
+| 1. Interviews | [Stream link [30 mins]](https://web.microsoftstream.com/video/6200ee2f-f30a-41de-943c-3c9c152fcef4) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%201-IntAndSoc-Interview-30min.pptx?d=w53dd827d230e461e9ecd9618123c7a4e&csf=1&web=1&e=63HxHL) |
+| 2. Analysing data| [Stream link [15 mins]](https://web.microsoftstream.com/video/f696a7a1-98d7-4e00-a529-7ca3682aeb2b) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%202-IntAndSoc-Needfinding-15min.pptx?d=w7b9116c259f240ca90d39fe01b443b34&csf=1&web=1&e=4AqII0) |
+| 3. Summarising data| [Stream link [8 mins]](https://web.microsoftstream.com/video/24615f39-1a8f-423f-9367-6feacb69cf71) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%203-IntAndSoc-PersonaScenarioStoryboard-8min.pptx?d=wbdecb0a76e0349bbbe4be795ed5faed3&csf=1&web=1&e=HaqC68) |
+| 4. Creativity | [Stream link [25 mins]](https://web.microsoftstream.com/video/e5fafa5c-d8aa-4728-858d-1b31f4d57144) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%204-IntAndSoc-Creativity-25min.pptx?d=w5101778f41454193ba4bfabd38e97a43&csf=1&web=1&e=RHoEyN) |
+| 5. Design process | [Stream link [10 mins]](https://web.microsoftstream.com/video/ca012fac-3a3e-4840-9c61-7e924a4361c4) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%205-IntAndSoc-DesignProcess-10min.pptx?d=wbf252519cc72424d81bd53f498bfeaeb&csf=1&web=1&e=LaPFiF) |
+| 6. Prototyping | [Stream link [15 mins]](https://web.microsoftstream.com/video/d56efcd8-8a21-46ff-8795-e2deb9e58a0b) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%206-IntAndSoc-Protyping-25min.pptx?d=wdbde6b052424453186a2e1d8ab851f40&csf=1&web=1&e=dnWAyh) |
+
 
 ## TA Sessions
 
