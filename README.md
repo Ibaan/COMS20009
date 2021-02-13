@@ -52,6 +52,7 @@ WHY: root in psychology and user centre design
 | 4. UCD | [Stream link [20 mins]](https://web.microsoftstream.com/video/84165df4-6c45-4732-b796-8a1f44739ef2) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK14/Week14-Chunk%204-IntAndSoc-UCD-20min.pptx?d=w7cafac71fe9c4e2a91723096447f51d5&csf=1&web=1&e=fGESQt) |
 | 5. User in centre | [Stream link [25 mins]](https://web.microsoftstream.com/video/fc51f160-b10b-4239-81cc-f3e355aef625) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK14/Week14-Chunk%205-IntAndSoc-UserInCenter-25min.pptx?d=wb3bbd13d218b47f2865a3bfc1cd00e02&csf=1&web=1&e=utdtCD) |
 | 6. Iterations | [Stream link [10 mins]](https://web.microsoftstream.com/video/ea2e909f-ab6d-4fad-8851-47235a148794) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK14/Week14-Chunk%206-IntAndSoc-Iterations-10min.pptx?d=w8460c381b51841428cb1f8b3fa8f2050&csf=1&web=1&e=A6BtKV) |
+| Live Q&A | [Stream link](https://web.microsoftstream.com/video/e2ba8c13-b86a-4a2b-b63b-c03822fdda91) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/QA-IntAndSoc-20-21.pptx?d=w8f783a14440c4de98fd98ad02dcab645&csf=1&web=1&e=7rJ3Dn) |
 
 ##### Week 15: 15/02/2021
 
