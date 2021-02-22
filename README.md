@@ -67,6 +67,17 @@ HOW: data gathering and design
 | 5. Design process | [Stream link [10 mins]](https://web.microsoftstream.com/video/ca012fac-3a3e-4840-9c61-7e924a4361c4) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%205-IntAndSoc-DesignProcess-10min.pptx?d=wbf252519cc72424d81bd53f498bfeaeb&csf=1&web=1&e=LaPFiF) |
 | 6. Prototyping | [Stream link [15 mins]](https://web.microsoftstream.com/video/d56efcd8-8a21-46ff-8795-e2deb9e58a0b) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK15/Week15-Chunk%206-IntAndSoc-Protyping-25min.pptx?d=wdbde6b052424453186a2e1d8ab851f40&csf=1&web=1&e=dnWAyh) |
 
+##### Week 16: 22/02/2021
+
+HOW: evaluation methods
+
+| Lecture | Video | Slides |
+| ------ | ---- | --- |
+| 1. Evaluation overview | [Stream link [10 mins]](https://web.microsoftstream.com/video/e136684a-ad7e-4371-be37-3599f4622735) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%201-IntAndSoc-EvaluationOverview-10min.pptx?d=w3b263bd0683d406d902cf1a0459a5e54&csf=1&web=1&e=hIW0i7) |
+| 2. Heuristics | [Stream link [20 mins]](https://web.microsoftstream.com/video/8e1482e1-e27c-41f6-8252-34b286872ded) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%202-IntAndSoc-Heuristics-20min.pptx?d=w184230debf524c459d8d3b662cdc5ec2&csf=1&web=1&e=rEqSdV) |
+| 3. Hypothesis testing 1 | [Stream link [40 mins]](https://web.microsoftstream.com/video/10774390-781f-41c6-9631-722d290c41f7) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%203%20and%204-IntAndSoc-hypothesistesting70min.pptx?d=wdecfbaf3bd7b4a9b9c9949f2836b9fcc&csf=1&web=1&e=fCa12t) |
+| 4. Hypothesis testing 2 | [Stream link [30 mins]](https://web.microsoftstream.com/video/6d3ccb38-459c-4258-8a0a-d6433289b6d7) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%203%20and%204-IntAndSoc-hypothesistesting70min.pptx?d=wdecfbaf3bd7b4a9b9c9949f2836b9fcc&csf=1&web=1&e=fCa12t) |
+| 5. Qualitative studies | [Stream link [20 mins]](https://web.microsoftstream.com/video/091a6872-c7e2-4f9d-ac9c-2e121f710498) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%205-IntAndSoc-Qualitative-20min.pptx?d=wf5139ed87cf04afd87d3c038ceba2b01&csf=1&web=1&e=hdU8F8) |
 
 ## TA Sessions
 
