@@ -27,6 +27,8 @@ I made this because all my other units are on GitHub and I just wanted one for t
 
 ## Lectures
 
+### Interaction
+
 ##### Week 13: 01/02/2021
 
 WHAT is HCI: history and topics
@@ -78,6 +80,23 @@ HOW: evaluation methods
 | 3. Hypothesis testing 1 | [Stream link [40 mins]](https://web.microsoftstream.com/video/10774390-781f-41c6-9631-722d290c41f7) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%203%20and%204-IntAndSoc-hypothesistesting70min.pptx?d=wdecfbaf3bd7b4a9b9c9949f2836b9fcc&csf=1&web=1&e=fCa12t) |
 | 4. Hypothesis testing 2 | [Stream link [30 mins]](https://web.microsoftstream.com/video/6d3ccb38-459c-4258-8a0a-d6433289b6d7) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%203%20and%204-IntAndSoc-hypothesistesting70min.pptx?d=wdecfbaf3bd7b4a9b9c9949f2836b9fcc&csf=1&web=1&e=fCa12t) |
 | 5. Qualitative studies | [Stream link [20 mins]](https://web.microsoftstream.com/video/091a6872-c7e2-4f9d-ac9c-2e121f710498) | [ppt](https://uob.sharepoint.com/:p:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK16/Week16-Chunk%205-IntAndSoc-Qualitative-20min.pptx?d=wf5139ed87cf04afd87d3c038ceba2b01&csf=1&web=1&e=hdU8F8) |
+
+### Society
+
+##### Week 18: 08/03/2021
+
+Ethics and CS
+
+| Lecture | Video | Slides |
+| ------ | ---- | --- |
+| 0. Outline | [Stream link [4 mins]](https://web.microsoftstream.com/video/bd94ebdf-d6a0-40db-9be4-c9047c7189e6) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/0%20Int%26Soc-Week18-overview.pdf?csf=1&web=1&e=7GWI92) |
+| 1. Introduction | [Stream link [7 mins]](https://web.microsoftstream.com/video/6cdb1cfc-cd68-44a6-835c-c446d91b8a41) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/1%20Int%26Soc-Week18-Intro.pdf?csf=1&web=1&e=Bt72YF) |
+| 2. Normative ethics| [Stream link [8 mins]](https://web.microsoftstream.com/video/4f10fed3-dc57-4b75-bd3e-267a3d902a87) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/2%20Int%26Soc-Week18-Normative-Ethics.pdf?csf=1&web=1&e=2hyREi) |
+| 3. Case study + HW| [Stream link [4 mins]](https://web.microsoftstream.com/video/a3d9f88e-1027-4801-841b-1b7e8dfd0a7f) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/3%20Int%26Soc-Week18-Case-Study+Homework!.pdf?csf=1&web=1&e=MewMpL) |
+| 4. Ethical Analysis Procedure| [Stream link [20 mins]](https://web.microsoftstream.com/video/229ac83a-8767-4fa2-8a1b-c3a8c753c5e5) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/4%20Int%26Soc-Week18-Ethical-Analysis-Procedure%20.pdf?csf=1&web=1&e=eNG5F7) |
+| 5. Ethical issues in ML| [Stream link [20 mins]](https://web.microsoftstream.com/video/f6389f7f-84db-4950-b8c3-a1872aae4840) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/5%20Int%26Soc-Week18-Ethical-Issues-in-ML.pdf?csf=1&web=1&e=udZuOU) |
+| 6. Coursework Details | [Stream link [7 mins]](https://web.microsoftstream.com/video/94092450-55c4-4022-992a-b65632c15a41) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/6%20Int%26Soc-Week18-Coursework%20Details.pdf?csf=1&web=1&e=PTexhP) |
+
 
 ## TA Sessions
 
