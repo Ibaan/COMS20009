@@ -97,6 +97,17 @@ Ethics and CS
 | 5. Ethical issues in ML| [Stream link [20 mins]](https://web.microsoftstream.com/video/f6389f7f-84db-4950-b8c3-a1872aae4840) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/5%20Int%26Soc-Week18-Ethical-Issues-in-ML.pdf?csf=1&web=1&e=udZuOU) |
 | 6. Coursework Details | [Stream link [7 mins]](https://web.microsoftstream.com/video/94092450-55c4-4022-992a-b65632c15a41) | [ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK18/6%20Int%26Soc-Week18-Coursework%20Details.pdf?csf=1&web=1&e=PTexhP) |
 
+##### Week 19: 15/03/2021
+
+Societal Topics 1
+
+| Lecture | Video | Slides |
+| ------ | ---- | --- |
+| 1. Automation | [Stream link [30 mins]](https://web.microsoftstream.com/video/1280a9ef-4af8-4585-871a-17240c3f7766) |[ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK19/Week19-Topics-Chunk1-Automation.pdf?csf=1&web=1&e=93MJmc) |
+| 2. Behaviour change - nudging | [Stream link [40 mins]](https://web.microsoftstream.com/video/9854e0ed-cce3-4dc0-96d0-635f1f9d7b40) |[ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK19/Week19-Topics-Chunk2-Behaviour%20Change-Nudging.pdf?csf=1&web=1&e=bKnfqs) |
+| 3. Dark side of behaviour change | [Stream link [35 mins]](https://web.microsoftstream.com/video/e130b06a-e03d-4dfc-aa88-a741c22fdd6c) |[ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK19/Week19-Topics-Chunk3-DarkSide%20of%20Behaviour%20Change.pdf?csf=1&web=1&e=juwCOd) |
+| 4. Sustainability  | [Stream link [35 mins]](https://web.microsoftstream.com/video/960558ab-6104-4132-a4f9-2db70928b218) |[ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK19/Week19-Topics-Chunk4-Sustainability.pdf?csf=1&web=1&e=u7msAR) |
+| 5. Inclusion & accessibility | [Stream link [40 mins]](https://web.microsoftstream.com/video/dbcdf98c-b328-4323-a178-192fb03cc6a4) |[ppt](https://uob.sharepoint.com/:b:/r/teams/grp-InteractionSociety/Shared%20Documents/General/Lectures/WEEK19/Week19-Topics-Chunk5-Inclusion%26accessibility.pdf?csf=1&web=1&e=3yiQPe) |
 
 ## TA Sessions
 
